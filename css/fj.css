@@ -1,0 +1,24 @@
+.one .s1{ 
+    /*background-repeat:repeat-y; 
+    background-attachment:fixed ;*/
+}/*背景图片不跟着页面滚动的文字而发生改变*/
+.one .s1 .s2{
+    font-family: "宋体";
+    font-size: 64px;
+}
+/*.one .s3{
+    text-align: center;
+    background-size:contain|cover;
+    width:100%;
+    height: auto;
+}*/
+.one .a1{
+    font-size: 25px;
+}
+.two{
+    width: 0px;
+    height: 70px;
+    position: fixed;
+    left: 0;
+    bottom: 150px;
+}
